@@ -1,0 +1,53 @@
+name: seerah_mobile
+description: "Seerah mobile"
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  smooth_compass_plus: ^0.0.4
+  flutter_riverpod: ^2.5.1
+  webview_flutter: ^4.8.0
+  http: ^1.2.1
+  dio: ^5.6.0
+  internet_connection_checker: ^0.0.1
+  shared_preferences: ^2.2.3
+  gap: ^3.0.1
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^3.0.0
+
+flutter:
+  generate : true
+  uses-material-design: true
+  assets:
+    - assets/launcher/
+    - assets/images/settings/
+    - assets/images/home/
+    - assets/images/faith/
+    - assets/images/tasbih/
+    - assets/images/qibla/
+  fonts:
+    - family: Rubik
+      fonts:
+        - asset: assets/fonts/Rubik-Regular.ttf
+        - asset: assets/fonts/Rubik-Italic.ttf
+          style: italic
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  image_path: "assets/launcher/logo.png"
+  adaptive_icon_background: "#ffffff"

@@ -1,0 +1,29 @@
+{
+  "@@locale": "kk",
+
+  "seerah" : "Сира",
+  "my_iman": "Менің иманым",
+  "settings" : "Баптаулар",
+
+  "next" : "Келесі",
+  "fajr" : "Таң",
+  "sunrise" : "Күн шығу",
+  "zuhr" : "Бесін",
+  "asr" : "Екінті",
+  "magrib" : "Шам",
+  "isha" : "Құптан",
+
+  "city" : "Қала",
+  "language" : "Тіл",
+  "about" : "Қосымша жайлы",
+  "notification" : "Хабарландыру",
+  "search" : "Іздеу",
+
+  "tasbih" : "Тәспі",
+  "qibla" : "Құбыла",
+  "resetTasbih" : "Барлығын 0 қылу",
+  "edit" : "Өзгерту",
+  "dhikr" : "Зікір ету",
+
+  "current_language" : "Қазақша"
+}

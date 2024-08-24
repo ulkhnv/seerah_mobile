@@ -1,0 +1,1 @@
+export 'qibla_page.dart';

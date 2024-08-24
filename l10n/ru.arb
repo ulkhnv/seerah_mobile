@@ -1,0 +1,30 @@
+{
+  "@@locale": "ru",
+
+  "seerah" : "Cира",
+  "my_iman": "Мой иман",
+  "settings" : "Настройки",
+
+  "next" : "Следующий",
+  "fajr" : "Фаджр",
+  "sunrise" : "Восход",
+  "zuhr" : "Зухр",
+  "asr" : "Аср",
+  "magrib" : "Магриб",
+  "isha" : "Иша",
+
+  "city" : "Город",
+  "language" : "Язык",
+  "about" : "О приложении",
+  "notification" : "Уведомление",
+  "search" : "Поиск",
+
+  "tasbih" : "Тасбих",
+  "qibla" : "Кибла",
+  "resetTasbih" : "Обнулить",
+  "edit" : "Изменить",
+  "dhikr" : "Сделать зикр",
+
+  "current_language" : "Русский"
+
+}
